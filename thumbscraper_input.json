@@ -1,0 +1,106 @@
+{
+    "0": {
+        "next_page_expected": "b09b3b10", 
+        "xpath_button_to_click": "/html/body/div[1]/nav/div/div/ul/li[1]/div/div/div[3]/ul/li[6]/a", 
+        "xpath_test_query": "//*[@id=\"body\"]/div/div/section[1]/div/h2//text()", 
+        "xpath_test_result": [
+            "\nPlus de 50 000 entrepreneurs g\u00e8rent leurs formalit\u00e9s avec Legalstart\n"
+        ]
+    }, 
+    "128dd05d": {
+        "next_page_expected": "22988fa2", 
+        "xpath_button_to_click": "/html/body/div[1]/div[2]/div/div[2]/article[2]/a", 
+        "xpath_test_query": "//*[@id=\"sheader\"]/div/div/h1//text()", 
+        "xpath_test_result": [
+            "Trouvez le bon avocat en ligne et contactez le d\u00e8s maintenant !"
+        ]
+    }, 
+    "15788bbc": {
+        "next_page_expected": "dfbecf71", 
+        "xpath_button_to_click": "/html/body/div[2]/nav/div/div/ul/li[4]/div/div/div[2]/ul/li[3]/a", 
+        "xpath_test_query": "//*[@id=\"content\"]/div[1]/h1/strong//text()", 
+        "xpath_test_result": [
+            "Peut-on cr\u00e9er une association \u00e0 but lucratif?"
+        ]
+    }, 
+    "22988fa2": {
+        "next_page_expected": "3f9d3254", 
+        "xpath_button_to_click": "/html/body/div[2]/nav/div/div/ul/li[1]/div/div/div[1]/div/a[2]", 
+        "xpath_test_query": "//*[@id=\"sheader\"]/div/div/h1//text()", 
+        "xpath_test_result": [
+            "Caroline Aupoix"
+        ]
+    }, 
+    "29699c5b": {
+        "next_page_expected": "15788bbc", 
+        "xpath_button_to_click": "/html/body/div[2]/div[2]/div[2]/div[1]/div[3]/div/a[1]", 
+        "xpath_test_query": "//*[@id=\"body\"]/div[@class=\"page\"]/div[2]/div/h2[2]/span//text()", 
+        "xpath_test_result": [
+            "Les th\u00e8mes juridiques"
+        ]
+    }, 
+    "3f9d3254": {
+        "next_page_expected": "fccfe3d0", 
+        "xpath_button_to_click": "/html/body/div[2]/nav/div/div/ul/li[1]/div/div/div[1]/ul/li[6]/a", 
+        "xpath_test_query": "//*[@id=\"body\"]/div[@class=\"page\"]/div[1]/div/div/h2//text()", 
+        "xpath_test_result": [
+            "Comparez les diff\u00e9rentes structures juridiques"
+        ]
+    }, 
+    "7b03f082": {
+        "next_page_expected": "128dd05d", 
+        "xpath_button_to_click": "/html/body/footer/div[2]/div/div/div[4]/ul/li[6]/a", 
+        "xpath_test_query": "//*[@id=\"body\"]/div[@class=\"page\"]/div[2]/div/h2[2]/span//text()", 
+        "xpath_test_result": [
+            "Les th\u00e8mes juridiques"
+        ]
+    }, 
+    "ac49a5ab": {
+        "next_page_expected": "fd5e1e27", 
+        "xpath_button_to_click": "/html/body/div[2]/header/div/ul/li[2]/a", 
+        "xpath_test_query": "//*[@id=\"sheader\"]/div/div/h1//text()", 
+        "xpath_test_result": [
+            "Conditions g\u00e9n\u00e9rales"
+        ]
+    }, 
+    "b09b3b10": {
+        "next_page_expected": "ed346bb8", 
+        "xpath_button_to_click": "/html/body/div[1]/nav/div/div/ul/li[1]/div/div/div[1]/ul/li[6]/a", 
+        "xpath_test_query": "//*[@id=\"body\"]/div/div/div/div/div[1]/div[2]/h3//text()", 
+        "xpath_test_result": [
+            "Formalit\u00e9s auto-entrepreneur"
+        ]
+    }, 
+    "dfbecf71": {
+        "next_page_expected": "7b03f082", 
+        "xpath_button_to_click": "/html/body/div[2]/nav/div/div/ul/li[4]/div/div/div[2]/ul/li[1]/a", 
+        "xpath_test_query": "//*[@id=\"content\"]/div[1]/div/a[2]//text()", 
+        "xpath_test_result": [
+            "Association loi 1901"
+        ]
+    }, 
+    "ed346bb8": {
+        "next_page_expected": "29699c5b", 
+        "xpath_button_to_click": "/html/body/div[2]/nav/div/div/ul/li[4]/div/div/div[2]/ul/li[1]/a", 
+        "xpath_test_query": "//*[@id=\"body\"]/div[@class=\"page\"]/div[2]/div[1]/div[1]/div[1]/div[2]/h1//text()", 
+        "xpath_test_result": [
+            "Cr\u00e9ation d'une SARL"
+        ]
+    }, 
+    "fccfe3d0": {
+        "next_page_expected": "ac49a5ab", 
+        "xpath_button_to_click": "/html/body/div[2]/div[2]/section[7]/div/table/tfoot/tr[1]/th[2]/a", 
+        "xpath_test_query": "//*[@id=\"product-description-left\"]/h1//text()", 
+        "xpath_test_result": [
+            "Cr\u00e9ation d'une SARL"
+        ]
+    }, 
+    "fd5e1e27": {
+        "next_page_expected": "da8ee7ce", 
+        "xpath_button_to_click": "/html/body/div[2]/div[2]/div/div/div[2]/form/div[2]/a", 
+        "xpath_test_query": "//*[@id=\"body\"]/div[@class=\"page\"]/div[2]/div/div/div[2]/form/div[2]/a//text()", 
+        "xpath_test_result": [
+            "Mot de passe oubli\u00e9 ?"
+        ]
+    }
+}
